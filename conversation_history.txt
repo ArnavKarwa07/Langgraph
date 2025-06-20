@@ -1,0 +1,13 @@
+Conversation History:
+You: Hi
+AI: Hello there! How's your day going so far? 😊 
+
+Is there anything I can help you with today?
+You: My name is Arnav
+AI: Hi Arnav! It’s nice to meet you. 😊 
+
+Is there anything you’d like to talk about, or were you just saying hello?
+You: Byeee
+AI: AI: Bye Arnav! Have a great day! 😊
+
+End of conversation.
